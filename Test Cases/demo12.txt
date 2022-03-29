@@ -1,0 +1,11 @@
+h
+h
+c
+c
+play 7S
+play 7C
+discard KH
+play 6C
+play 4S
+discard AD
+ragequit

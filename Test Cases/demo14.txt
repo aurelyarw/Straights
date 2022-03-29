@@ -1,0 +1,17 @@
+c
+h
+c
+c
+play 7S
+discard KH
+play 4S
+play 5H
+play 4H
+play AC
+play 3S
+play 8H
+discard 3D
+discard JS
+discard JD
+discard KS
+discard 2D

@@ -1,0 +1,9 @@
+h
+h
+h
+h
+play 7S
+play 8S
+play 6H
+play 6S
+play 7C

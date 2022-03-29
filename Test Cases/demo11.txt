@@ -1,0 +1,9 @@
+c
+h
+c
+c
+invalidcommand
+play AO
+play 7S
+discard AO
+discard AD

@@ -1,0 +1,6 @@
+c
+h
+c
+c
+play 7S
+discard KH

@@ -1,0 +1,6 @@
+h
+c
+c
+c
+play 6H
+deck

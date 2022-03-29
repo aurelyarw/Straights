@@ -1,0 +1,6 @@
+h
+h
+c
+c
+ragequit
+play 7C
