@@ -1,11 +1,11 @@
-## STRAIGHTS
+# STRAIGHTS
 A 4-players card game built using C++.
 
-# Rules
+## Rules
 - Players could be human or computer.
 - If a player withdraw from the game, a computer will take over.
 
-# Game Play
+## Game Play
 - The player with 7 spades will start the game.
 - This player must play the 7 of spades in the centre of the table. 
 - After the 7 of spades, the players take turns to play cards on the table. 
